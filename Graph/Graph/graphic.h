@@ -40,6 +40,8 @@ private:
     std::vector<Arch*> arches;
     bool isOriented;
 
+
+
 };
 
 #endif // GRAPH_H
